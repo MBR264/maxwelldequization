@@ -1,7 +1,7 @@
 let img
 // Loading my images in.
 function preload() {
-  img = loadImage('/assets/deqtypeweb.jpg');
+  img = loadImage('deqtypeweb.jpg');
   img1 = loadImage('/assets/medtempweb1.jpg');
   img2 = loadImage('/assets/medtempweb2.jpg');
   img3 = loadImage('/assets/medtempweb3.jpg');
